@@ -8,7 +8,7 @@ First of all, please execute 'npm i' at root
 1. transactions.csv.zip (<a href="https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip" target="_blank">Download Big CSV file</a>)
 2. small_transactins.csv.zip (less records)
 
-=> Please find both files in root directory.
+=> Please find small_transactins.csv.zip file in root directory.
 
 For fast execution please comment large file at line number 12, and uncomment line number 15 in app.js
 
