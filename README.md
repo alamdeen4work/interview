@@ -5,14 +5,14 @@ There is two files, one have more records, another less, named:-
 
 First of all, please execute 'npm i' at root
 
-1. transactions.csv.zip (<a href="https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip" target="_blank">Download Big CSV file</a>)
+1. transactions.csv.zip (Big file Link: https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip)
 2. small_transactins.csv.zip (less records)
 
-=> Please find small_transactins.csv.zip file in root directory.
+=> Please find small_transactins.csv.zip file in root directory, if want to process with big file (transactions.csv.zip), please download by link and put in root directory.
 
-For fast execution please comment large file at line number 12, and uncomment line number 15 in app.js
+For fast execution code by default process with small file (small_transactins.csv.zip)
 
-If you will execute with large file (1. transactions.csv.zip), It will take around 50 minutes for process to all records. 
+If you will execute with big file (1. transactions.csv.zip), It will take around 50 minutes for process to all records. 
 
 
 # Step to execute programm
