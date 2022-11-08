@@ -5,7 +5,7 @@ There is two files, one have more records, another less, named:-
 
 First of all, please execute 'npm i' at root
 
-1. transactions.csv.zip (more record)
+1. transactions.csv.zip (<a href="https://s3-ap-southeast-1.amazonaws.com/static.propine.com/transactions.csv.zip">Download Big CSV file</a>)
 2. small_transactins.csv.zip (less records)
 
 => Please find both files in root directory.
